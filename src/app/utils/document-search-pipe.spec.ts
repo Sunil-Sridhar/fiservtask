@@ -1,4 +1,4 @@
-import { DocumentSearchPipe } from './category-pipe';
+import { DocumentSearchPipe } from './document-search-pipe';
 
 describe('DocumentSearchPipe', () => {
   it('create an instance', () => {

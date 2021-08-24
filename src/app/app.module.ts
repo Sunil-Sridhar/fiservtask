@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { DocumentSearchComponent } from './document-search/document-search.component';
-import { DocumentSearchPipe } from './category-pipe';
+import { DocumentSearchPipe } from './utils/document-search-pipe';
 import { FormsModule } from '@angular/forms';
 
 @NgModule({
